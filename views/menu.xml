@@ -1,6 +1,6 @@
 <odoo>
     <menuitem id="menu_root"
-              name="Odoo Reports Module"
+              name="Odoo Reports App"
               sequence="10"/>
 
     <menuitem id="menu_model"
