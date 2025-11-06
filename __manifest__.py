@@ -2,7 +2,7 @@
     'name': 'Odoo Reports',
     'version': '1.0',
     'category': 'Custom',
-    'summary': 'A custom module for odoo reports',
+    'summary': 'A custom module for odoo reports ad',
     'depends': ['base'],
     'data': [],
     'installable': True,
