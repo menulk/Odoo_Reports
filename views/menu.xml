@@ -4,7 +4,7 @@
               sequence="10"/>
 
     <menuitem id="menu_model"
-              name="Mode;l Records"
+              name="Model Records"
               parent="menu_root"
               action="action_model"
               sequence="10"/>
