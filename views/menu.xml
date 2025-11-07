@@ -2,10 +2,4 @@
     <menuitem id="menu_root"
               name="Odoo Reports App"
               sequence="10"/>
-
-    <menuitem id="menu_model"
-              name="Model Records"
-              parent="menu_root"
-              action="action_model"
-              sequence="10"/>
 </odoo>
